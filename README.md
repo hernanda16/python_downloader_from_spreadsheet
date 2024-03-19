@@ -19,14 +19,13 @@ The Python-Downloader-From-Spreadsheet is a program designed to download batch f
 1. Clone the repository:
 
 ```
-git clone https://github.com/your/repository.git
+git clone https://github.com/hernanda16/python_downloader_from_spreadsheet.git
 ```
 
 2. Install dependencies:
 
 ```
 pip3 install gdown
-
 ```
 
 ## Usage
@@ -37,7 +36,7 @@ pip3 install gdown
 4. Run the program:
 
 ```
-python Python-Downloader-From-Spreadsheet.py
+python exec.py
 ```
 
 5. Follow the prompts to input the path to your CSV file.
